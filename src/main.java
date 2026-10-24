@@ -23,7 +23,7 @@ public class main {
             switch (opcao) {
                 case 1 -> gato.emitirsom();
                 case 2 -> cachorro.emitirsom();  
-                default -> System.out.println("Escolhe certo, viado");
+                default -> System.out.println("Escolhe certo");
                     
             }
         } while (opcao !=0);
