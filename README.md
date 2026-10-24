@@ -1,8 +1,16 @@
-# 🐾 Sistema de Sons de Animais — Java
+<div align="center">
 
-**Herança, sobrescrita de métodos e polimorfismo em uma aplicação de console.**
+🐾 Sistema de Sons de Animais — Java
 
-A mini console application that demonstrates inheritance and polymorphism through a menu that allows users to select an animal and display its corresponding sound.
+Herança, sobrescrita de métodos e polimorfismo em Java.
+
+Uma aplicação de console que demonstra conceitos de orientação a objetos por meio da seleção de animais e da exibição de seus sons.
+
+
+
+
+
+</div>
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
